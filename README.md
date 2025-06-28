@@ -77,57 +77,48 @@ Unlocking visual intelligence through the art and science of prompting. These me
 
 Harnessing the power of Reinforcement Learning to teach models how to reason with images through trial, error, and reward. These approaches enable agents to learn complex visual behaviors, tool interactions, and even intrinsic motivation for exploration.
 
-- [Can we generate images with CoT? Let’s verify and reinforce image generation step by step](https://arxiv.org/abs/2501.13926) (Jan., 2025)
-<br>
+- [Can we generate images with CoT? Let’s verify and reinforce image generation step by step](https://arxiv.org/abs/2501.13926) (Jan., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/ZiyuG/Image-Generation-CoT)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/ZiyuG/Image-Generation-CoT)
 
 
-- [ImageGen-CoT: Enhancing text-to-image in-context learning with chain-of-thought reasoning](https://arxiv.org/abs/2503.19312) (Jan., 2025)
-<br>
+- [ImageGen-CoT: Enhancing text-to-image in-context learning with chain-of-thought reasoning](https://arxiv.org/abs/2503.19312) (Jan., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://imagegen-cot.github.io)
 
 
-- [SimpleAR: Pushing the frontier of autoregressive visual generation through pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455) (Apr., 2025)
-<br>
+- [SimpleAR: Pushing the frontier of autoregressive visual generation through pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455) (Apr., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/wdrink/SimpleAR)](https://github.com/wdrink/SimpleAR)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/Daniel0724/simplear-6805053f5b4b9961ac025136)
 
 
-- [T2I-R1: Reinforcing image generation with collaborative semantic-level and token-level CoT](https://arxiv.org/abs/2505.00703) (May, 2025)
-<br>
+- [T2I-R1: Reinforcing image generation with collaborative semantic-level and token-level CoT](https://arxiv.org/abs/2505.00703) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/CaraJ7/T2I-R1)](https://github.com/CaraJ7/T2I-R1)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/CaraJ/T2I-R1)
 
 
-- [Flow-GRPO: Training flow matching models via online RL](https://arxiv.org/abs/2505.05470) (May, 2025)
-<br>
+- [Flow-GRPO: Training flow matching models via online RL](https://arxiv.org/abs/2505.05470) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/yifan123/flow_grpo)](https://github.com/yifan123/flow_grpo)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/yifan123/flow_grpo?tab=readme-ov-file#-model)
 
 
-- [DanceGRPO: Unleashing GRPO on visual generation](https://arxiv.org/abs/2505.07818) (May, 2025)
-<br>
+- [DanceGRPO: Unleashing GRPO on visual generation](https://arxiv.org/abs/2505.07818) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/XueZeyue/DanceGRPO)](https://github.com/XueZeyue/DanceGRPO)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://dancegrpo.github.io)
 
 
-- [GoT-R1: Unleashing reasoning capability of MLLM for visual generation with reinforcement learning](https://arxiv.org/abs/2505.17022) (May, 2025)
-<br>
+- [GoT-R1: Unleashing reasoning capability of MLLM for visual generation with reinforcement learning](https://arxiv.org/abs/2505.17022) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/gogoduan/GoT-R1)](https://github.com/gogoduan/GoT-R1)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/gogoduan/GoT-R1#released-model-got-r1)
 
 
-- [Co-Reinforcement learning for unified multimodal understanding and generation](https://arxiv.org/abs/2505.17534) (May, 2025)
-<br>
+- [Co-Reinforcement learning for unified multimodal understanding and generation](https://arxiv.org/abs/2505.17534) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/mm-vl/ULM-R1)](https://github.com/mm-vl/ULM-R1)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/mm-vl/corl-67e0f23d6ecbdc3a9fb747e9)
 
 
-- [ReasonGen-R1: CoT for autoregressive image generation model through SFT and RL](https://arxiv.org/abs/2505.24875) (May, 2025)
-<br>
+- [ReasonGen-R1: CoT for autoregressive image generation model through SFT and RL](https://arxiv.org/abs/2505.24875) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/Franklin-Zhang0/ReasonGen-R1)](https://github.com/Franklin-Zhang0/ReasonGen-R1)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://reasongen-r1.github.io)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)
