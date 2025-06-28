@@ -131,7 +131,144 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 
 Tailoring pre-trained models for visual reasoning through targeted fine-tuning on specialized datasets. This approach leverages instruction-following data and demonstrations of reasoning steps to enhance model capabilities.
 
-- [Generating images with multimodal language models](https://arxiv.org/abs/2305.17216) ![](https://img.shields.io/badge/abs-2023.05-red)
+- [Multi-modal generation via cross-modal in-context learning](https://arxiv.org/abs/2405.18304) (May, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/VIROBO-15/MGCC)](https://github.com/VIROBO-15/MGCC)
+
+
+- [Emu: Generative pretraining in multimodality](https://arxiv.org/abs/2307.05222) (ICLR, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/baaivision/Emu)](https://github.com/baaivision/Emu)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/baaivision/Emu/tree/main/Emu1#model-weights)
+
+
+- [DreamLLM: Synergistic multimodal comprehension and creation](https://arxiv.org/abs/2309.11499) (ICLR, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/RunpeiDong/DreamLLM)](https://github.com/RunpeiDong/DreamLLM)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://dreamllm.github.io)
+
+
+- [Making LLaMA see and draw with seed tokenizer](https://arxiv.org/abs/2310.01218) (ICLR, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/AILab-CVC/SEED)](https://github.com/AILab-CVC/SEED)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/AILab-CVC/SEED/blob/main/SEED-1.md)
+
+
+- [MiniGPT-5: Interleaved vision-and-language generation via generative vokens](https://arxiv.org/abs/2310.02239) (Mar., 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5)](https://github.com/eric-ai-lab/MiniGPT-5)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/KZ-ucsc/MiniGPT5)
+
+
+- [Generative multimodal models are in-context learners](https://arxiv.org/abs/2312.13286) (CVPR, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/baaivision/Emu)](https://github.com/baaivision/Emu)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://baaivision.github.io/emu2/)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/BAAI/Emu2)
+
+
+- [Unified-IO 2: Scaling autoregressive multimodal models with vision, language, audio, and action](https://arxiv.org/abs/2312.17172) (CVPR, 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/allenai/unified-io-2)](https://github.com/allenai/unified-io-2)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://unified-io-2.allenai.org)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/allenai/unified-io-2#checkpoints)
+
+
+- [SEED-X: Multimodal models with unified multi-granularity comprehension and generation](https://arxiv.org/abs/2404.14396) (May, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/AILab-CVC/SEED-X)](https://github.com/AILab-CVC/SEED-X)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/AILab-CVC/SEED-X-17B)
+
+
+- [Chameleon: Mixed-Modal early-fusion foundation models](https://arxiv.org/abs/2404.14396) (May, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/chameleon)](https://github.com/facebookresearch/chameleon)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/facebook/chameleon-668da9663f80d483b4c61f58)
+
+
+- [Transfusion: Predict the next token and diffuse images with one multi-modal model](https://arxiv.org/abs/2408.11039) (Aug., 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/lucidrains/transfusion-pytorch)](https://github.com/lucidrains/transfusion-pytorch)
+
+
+- [Show-o: One single transformer to unify multimodal understanding and generation](https://arxiv.org/abs/2408.12528) (ICLR, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/showlab/Show-o)](https://github.com/showlab/Show-o)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/showlab)
+
+
+- [VILA-U: A unified foundation model integrating visual understanding and generation](https://arxiv.org/abs/2409.04429) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/vila-u)](https://github.com/mit-han-lab/vila-u)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://hanlab.mit.edu/projects/vila-u)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/mit-han-lab/vila-u-7b-6716f7dd5331e4bdf944ffa6)
+
+
+- [Emu3: Next-token prediction is all you need](https://arxiv.org/abs/2409.18869) (Sep., 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/baaivision/Emu3)](https://github.com/baaivision/Emu3)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://emu.baai.ac.cn/about)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/BAAI/emu3-66f4e64f70850ff358a2e60f)
+
+
+- [Janus: Decoupling visual encoding for unified multimodal understanding and generation](https://arxiv.org/abs/2410.13848) (Oct., 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus)](https://github.com/deepseek-ai/Janus)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/deepseek-ai/Janus#2-model-download)
+
+
+- [JanusFlow: Harmonizing autoregression and rectified flow for unified multimodal understanding and generation](https://arxiv.org/abs/2411.07975) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus)](https://github.com/deepseek-ai/Janus)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/deepseek-ai/Janus#2-model-download)
+
+
+- [TokenFlow: Unified image tokenizer for multimodal understanding and generation](https://arxiv.org/abs/2412.03069) (CVPR, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow)](https://github.com/ByteFlow-AI/TokenFlow)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://byteflow-ai.github.io/TokenFlow/)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/ByteFlow-AI)
+
+
+- [MetaMorph: Multimodal understanding and generation via instruction tuning](https://arxiv.org/abs/2412.14164) (Dec., 2024) <br>
+[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/metamorph)](https://github.com/facebookresearch/metamorph/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://tsb0601.github.io/metamorph/)
+
+
+- [LMFusion: Adapting pretrained language models for multimodal generation](https://arxiv.org/abs/2412.15188) (Feb., 2025) <br>
+
+
+- [Janus-Pro: Unified multimodal understanding and generation with data and model scaling](https://arxiv.org/abs/2501.17811) (Jan., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus)](https://github.com/deepseek-ai/Janus)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/deepseek-ai/Janus?tab=readme-ov-file#2-model-download)
+
+
+- [MINT: Multi-modal chain of thought in unified generative models for enhanced image generation](https://arxiv.org/abs/2503.01298) (Mar., 2025) <br>
+
+
+- [Transfer between modalities with metaqueries](https://arxiv.org/abs/2504.06256) (Apr., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/metaquery)](https://github.com/facebookresearch/metaquery)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://xichenpan.com/metaquery/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/xcpan/metaquery-instruction-tuning-data-685b0f16d81ce54bcb7ea3a8)
+
+
+- [BLIP3-o: A family of fully open unified multimodal models-architecture, training and dataset](https://arxiv.org/abs/2505.09568) (May, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o)](https://github.com/JiuhaiChen/BLIP3o)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://huggingface.co/BLIP3o/BLIP3o-Model)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/BLIP3o/datasets)
+
+
+- [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/bytedance-seed/BAGEL)](https://github.com/bytedance-seed/BAGEL)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://bagel-ai.org)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT)
+
+
+- [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) (May, 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/thinking-with-generated-images)](https://github.com/GAIR-NLP/thinking-with-generated-images)
+[![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/GAIR/twgi-critique-anole-7b)
+[![Model](https://img.shields.io/badge/Model2-Available-orange?style=flat-square)](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)
+
+
+- [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (Jun., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/showlab/Show-o)](https://github.com/showlab/Show-o)
+[![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://github.com/showlab/Show-o/tree/main/show-o2#pre-trained-model-weigths)
+
+
+- [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation](https://arxiv.org/abs/2506.18095) (Jun., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/FreedomIntelligence/ShareGPT-4o-Image)](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image)
+[![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/FreedomIntelligence/Janus-4o-7B)
+
+
+- [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2)](https://github.com/VectorSpaceLab/OmniGen2)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OmniGen2/OmniContext)
+[![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/OmniGen2/OmniGen2)
 
 ---
 
