@@ -6,33 +6,34 @@
   
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/exped1230/Awesome_Image_Generation_with_Thinking?color=green) 
+<!-- ![](https://img.shields.io/github/last-commit/exped1230/Awesome_Image_Generation_with_Thinking?color=green)  -->
 
 </div>
 
-Welcome to the Awesome-Image-Generation-with-Thinking repository! This repository represents a comprehensive collection of research focused on empowering models to think during image generation. We delve into current works and divide them into three parts: explicit reflection, reinforcement learning, and unified multimodal models.
+Welcome to the Awesome-Image-Generation-with-Thinking repository! This repository represents a comprehensive collection of research focused on empowering models to think during image generation. We explore current works and summarize them into three approaches: explicit reflection, reinforcement learning, and unified multimodal models.
 
-This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
+<!-- This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
 *   **Prompt-Based Innovation:** How LVLMs can guide visual understanding and generation.
 *   **Supervised Fine-Tuning:** Training models with rich, contextual visual data.
-*   **Reinforcement Learning:** Enabling agents to learn through visual interaction and feedback.
+*   **Reinforcement Learning:** Enabling agents to learn through visual interaction and feedback. -->
 
 
 ---
 
 ## 🔔 News
 
-- [2025-06] We created this repository to maintain a paper list on Awesome-Think-With-Images. Contributions are welcome!
+- [2025-06] We created this repository to maintain a paper list on Awesome-Image-Generation-With-Thinking. Contributions are welcome!
 
-- [2025-05] We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute.
+<!-- - [2025-05] We are excited to release **[OpenThinkIMG](https://github.com/OpenThinkIMG/OpenThinkIMG)**, the first dedicated end-to-end open-source framework designed to empower LVLMs to truly **think with images**! For ease of use, we've configured a Docker environment. We warmly invite the community to explore, use, and contribute. -->
 
 ---
 
 ## 📜 Table of Contents
 
-*   [✍️ Editing-based explicitly reflection](#-editing-based-explicitly-reflection)
-*   [🗒️ Reasoning with prompt](#-reasoning-with-prompt)
-*   [🏆 RL for self-evolution](#-RL-for-self-evolution)
+*   [✍️ Survey](#-survey)
+*   [🗒️ Explicit Reflection](#-explicit-reflection)
+*   [🧠 Reinforcement Learning](#-reinforcement-learning)
+*   [🚀 Unified LMMs](#-unified-lmms)
 *   [📚 Benchmarks](#-benchmarks)
 
 ---
@@ -44,9 +45,9 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
 
-## 🚀 Editing-based explicitly reflection
+## 🗒️ Explicit Reflection
 
-Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide LVLMs to perform complex reasoning tasks with images, often without explicit task-specific training.
+Reflection is an essantial step in thinking processes. Explicit reflection, which leverages modalities such as text, object coordinates, and image with editing instructions, is a typical approach.
 
 - [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (CVPR, 2023) <br>
 [![GitHub stars](https://img.shields.io/github/stars/allenai/visprog)](https://github.com/allenai/visprog)
@@ -73,9 +74,9 @@ Unlocking visual intelligence through the art and science of prompting. These me
 [![GitHub stars](https://img.shields.io/github/stars/yix8/VisualPlanning)](https://github.com/yix8/VisualPlanning)
 
 
-## 🏆 RL for Self-Evolution
+## 🧠 Reinforcement Learning
 
-Harnessing the power of Reinforcement Learning to teach models how to reason with images through trial, error, and reward. These approaches enable agents to learn complex visual behaviors, tool interactions, and even intrinsic motivation for exploration.
+Reinforcement learning has been proven to be a crucial step in enhancing reasoning capabilities. Here, we summarize methods that utilize reinforcement learning, such as GRPO, into image generation process.
 
 - [Can we generate images with CoT? Let’s verify and reinforce image generation step by step](https://arxiv.org/abs/2501.13926) (Jan., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
@@ -127,9 +128,9 @@ Harnessing the power of Reinforcement Learning to teach models how to reason wit
 ---
 
 
-## 🎓 Reasoning with prompt
+## 🚀 Unified LMMs
 
-Tailoring pre-trained models for visual reasoning through targeted fine-tuning on specialized datasets. This approach leverages instruction-following data and demonstrations of reasoning steps to enhance model capabilities.
+Unified LMMs inherently excel at text-to-image controllability, hence we collect a list of relevant works.
 
 - [Multi-modal generation via cross-modal in-context learning](https://arxiv.org/abs/2405.18304) (May, 2024) <br>
 [![GitHub stars](https://img.shields.io/github/stars/VIROBO-15/MGCC)](https://github.com/VIROBO-15/MGCC)
