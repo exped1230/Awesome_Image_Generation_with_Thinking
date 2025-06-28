@@ -242,30 +242,30 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/BLIP3o/datasets)
 
 
-- [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May, 2025) <br>
+- [Emerging properties in unified multimodal pretraining](https://arxiv.org/abs/2505.14683) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/bytedance-seed/BAGEL)](https://github.com/bytedance-seed/BAGEL)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://bagel-ai.org)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT)
 
 
-- [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) (May, 2025) <br>
+- [Thinking with generated images](https://arxiv.org/abs/2505.22525) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/GAIR-NLP/thinking-with-generated-images)](https://github.com/GAIR-NLP/thinking-with-generated-images)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/GAIR/twgi-critique-anole-7b)
 [![Model](https://img.shields.io/badge/Model2-Available-orange?style=flat-square)](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)
 
 
-- [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (Jun., 2025) <br>
+- [Show-o2: Improved native unified multimodal models](https://arxiv.org/abs/2506.15564) (Jun., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/showlab/Show-o)](https://github.com/showlab/Show-o)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://github.com/showlab/Show-o/tree/main/show-o2#pre-trained-model-weigths)
 
 
-- [ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation](https://arxiv.org/abs/2506.18095) (Jun., 2025) <br>
+- [ShareGPT-4o-Image: Aligning multimodal models with GPT-4o-level image generation](https://arxiv.org/abs/2506.18095) (Jun., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/FreedomIntelligence/ShareGPT-4o-Image)](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/FreedomIntelligence/Janus-4o-7B)
 
 
-- [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun., 2025) <br>
+- [OmniGen2: Exploration to advanced multimodal generation](https://arxiv.org/abs/2506.18871) (Jun., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2)](https://github.com/VectorSpaceLab/OmniGen2)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OmniGen2/OmniContext)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/OmniGen2/OmniGen2)
@@ -276,8 +276,37 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 ## 📚 Benchmarks
 *Essential resources for understanding the broader landscape and evaluating progress in visual reasoning.*
 
-- [A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models](https://arxiv.org/abs/2402.18409) ![](https://img.shields.io/badge/abs-2024.02-red)
+- [ELLA: Equip diffusion models with LLM for enhanced semantic alignment](https://arxiv.org/abs/2403.05135) (Mar., 2024) <br>
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://ella-diffusion.github.io)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/TencentQQGYLab/ELLA?tab=readme-ov-file#-dpg-bench)
 
+
+- [T2I-CompBench: A comprehensive benchmark for open-world compositional text-to-image generation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f8ad010cdd9143dbb0e9308c093aff24-Abstract-Datasets_and_Benchmarks.html) (NeurIPS, 2023) <br>
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://karine-h.github.io/T2I-CompBench/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://connecthkuhk-my.sharepoint.com/personal/huangky_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhuangky%5Fconnect%5Fhku%5Fhk%2FDocuments%2FT2I%2DCompBench&ga=1)
+
+
+- [GenEval: An object-focused framework for evaluating text-to-image alignment](https://arxiv.org/abs/2310.11513) (NeurIPS, 2023) <br>
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/djghosh13/geneval#image-generation)
+
+
+- [Commonsense-T2I challenge: Can text-to-image generation models understand commonsense?](https://openreview.net/forum?id=MI52iXSSNy) (COLM, 2024) <br>
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://zeyofu.github.io/CommonsenseT2I/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/CommonsenseT2I/CommonsensenT2I)
+
+
+- [WISE: A world knowledge-informed semantic evaluation for text-to-image generation](https://arxiv.org/abs/2503.07265) (May, 2025) <br>
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/PKU-YuanGroup/WISE#wise-eval)
+
+
+- [TIIF-Bench: How does your T2I model follow your instructions?](https://arxiv.org/abs/2506.02161) (Jun., 2025) <br>
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://a113n-w3i.github.io/TIIF_Bench/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/A113NW3I/TIIF-Bench-Data)
+
+
+- [OneIG-Bench: Omni-dimensional nuanced evaluation for image generation](https://arxiv.org/abs/2506.07977) (Jun., 2025) <br>
+[![Website](https://oneig-bench.github.io)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OneIG-Bench/OneIG-Bench)
 
 ## Star History
 
