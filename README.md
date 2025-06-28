@@ -42,8 +42,34 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide LVLMs to perform complex reasoning tasks with images, often without explicit task-specific training.
 
 - [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (CVPR, 2023) <br>
-![GitHub stars](https://img.shields.io/github/stars/allenai/visprog) 
+[![GitHub stars](https://img.shields.io/github/stars/allenai/visprog)](https://github.com/allenai/visprog)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://prior.allenai.org/projects/visprog)
+
+
+- [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) (ICCV, 2023) <br>
+[![GitHub stars](https://img.shields.io/github/stars/cvlab-columbia/viper)](https://github.com/cvlab-columbia/viper)
+
+
+- [From reflection to perfection: Scaling inference-time optimization for text-to-image diffusion models via reflection tuning](https://arxiv.org/abs/2504.16080) (Apr., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow)](https://github.com/Diffusion-CoT/ReflectionFlow)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://diffusion-cot.github.io/reflection2perfection/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/diffusion-cot/reflectionflow-release-6803e14352b1b13a16aeda44)
+
+
+- [GoT: Unleashing reasoning capability of multimodal large language model for visual generation and editing](https://arxiv.org/abs/2503.10639) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/rongyaofang/GoT)](https://github.com/rongyaofang/GoT)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-datasets)
+[![Model](https://img.shields.io/badge/Model-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-model-got-framework)
+
+
+- [Visual planning: Let's think only with images](https://arxiv.org/abs/2505.11409) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/yix8/VisualPlanning)](https://github.com/yix8/VisualPlanning)
+
+
+
+
+
+
 
 
 ## 🎓 Reasoning with prompt
