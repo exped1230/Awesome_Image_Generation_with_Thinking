@@ -1,7 +1,7 @@
 # 💡🎞️ Awesome_Image_Generation_with_Thinking
 
 <div align="center">
-  <img src="logo.png" alt="Logo" width="300">
+  <img src="logo.png" alt="Logo" width="600">
   <h1 align="center">Image Generation with Thinking.</h1>
   
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
@@ -10,7 +10,7 @@
 
 </div>
 
-Welcome to the Awesome-Image-Generation-with-Thinking repository! This repository represents a comprehensive collection of research focused on empowering models to think during image generation. We delve into how these sophisticated models are evolving beyond mere pattern recognition, acquiring capabilities for intricate reasoning, nuanced understanding, and dynamic interaction by processing and interpreting visual information in cognitive-inspired ways.
+Welcome to the Awesome-Image-Generation-with-Thinking repository! This repository represents a comprehensive collection of research focused on empowering models to think during image generation. We delve into current works and divide them into three parts: explicit reflection, reinforcement learning, and unified multimodal models.
 
 This collection is for researchers, developers, and enthusiasts eager to explore the forefront of:
 *   **Prompt-Based Innovation:** How LVLMs can guide visual understanding and generation.
