@@ -41,7 +41,8 @@ This collection is for researchers, developers, and enthusiasts eager to explore
 
 Unlocking visual intelligence through the art and science of prompting. These methods explore how carefully crafted textual or visual cues can guide LVLMs to perform complex reasoning tasks with images, often without explicit task-specific training.
 
-- [Visual programming: Compositional visual reasoning without training (CVPR, 2023)](https://arxiv.org/abs/2211.11559) ![GitHub stars](https://img.shields.io/github/stars/allenai/visprog) | [Website](https://prior.allenai.org/projects/visprog)
+- [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (CVPR, 2023) 
+![GitHub stars](https://img.shields.io/github/stars/allenai/visprog) | [Website](https://prior.allenai.org/projects/visprog)
 
 
 ## 🎓 Reasoning with prompt
