@@ -305,7 +305,7 @@ Tailoring pre-trained models for visual reasoning through targeted fine-tuning o
 
 
 - [OneIG-Bench: Omni-dimensional nuanced evaluation for image generation](https://arxiv.org/abs/2506.07977) (Jun., 2025) <br>
-[![Website](https://oneig-bench.github.io)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://oneig-bench.github.io)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OneIG-Bench/OneIG-Bench)
 
 ## Star History
