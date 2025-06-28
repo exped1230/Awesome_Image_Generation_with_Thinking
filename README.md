@@ -59,7 +59,7 @@ Unlocking visual intelligence through the art and science of prompting. These me
 - [GoT: Unleashing reasoning capability of multimodal large language model for visual generation and editing](https://arxiv.org/abs/2503.10639) (Mar., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/rongyaofang/GoT)](https://github.com/rongyaofang/GoT)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-datasets)
-[![Model](https://img.shields.io/badge/Model-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-model-got-framework)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/rongyaofang/GoT#released-model-got-framework)
 
 
 - [Visual planning: Let's think only with images](https://arxiv.org/abs/2505.11409) (Mar., 2025) <br>
