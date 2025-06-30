@@ -271,6 +271,12 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OmniGen2/OmniContext)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/OmniGen2/OmniGen2)
 
+
+- [Ovis-U1: Unified Understanding, Generation, and Editing](https://github.com/AIDC-AI/Ovis-U1/blob/main/docs/Ovis_U1_Report.pdf) (Jun., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1)](https://github.com/AIDC-AI/Ovis-U1)
+[![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/AIDC-AI/Ovis-U1-3B)
+
+
 ---
 
 
