@@ -45,35 +45,6 @@ Welcome to the Awesome-Image-Generation-with-Thinking repository! This repositor
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
 
-## 🗒️ Explicit Reflection
-
-Reflection is an essantial step in thinking processes. Explicit reflection, which leverages modalities such as text, object coordinates, and image with editing instructions, is a typical approach.
-
-- [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (CVPR, 2023) <br>
-[![GitHub stars](https://img.shields.io/github/stars/allenai/visprog)](https://github.com/allenai/visprog)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://prior.allenai.org/projects/visprog)
-
-
-- [ViperGPT: Visual inference via python execution for reasoning](https://arxiv.org/abs/2303.08128) (ICCV, 2023) <br>
-[![GitHub stars](https://img.shields.io/github/stars/cvlab-columbia/viper)](https://github.com/cvlab-columbia/viper)
-
-
-- [From reflection to perfection: Scaling inference-time optimization for text-to-image diffusion models via reflection tuning](https://arxiv.org/abs/2504.16080) (Apr., 2025) <br>
-[![GitHub stars](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow)](https://github.com/Diffusion-CoT/ReflectionFlow)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://diffusion-cot.github.io/reflection2perfection/)
-[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/diffusion-cot/reflectionflow-release-6803e14352b1b13a16aeda44)
-
-
-- [GoT: Unleashing reasoning capability of multimodal large language model for visual generation and editing](https://arxiv.org/abs/2503.10639) (Mar., 2025) <br>
-[![GitHub stars](https://img.shields.io/github/stars/rongyaofang/GoT)](https://github.com/rongyaofang/GoT)
-[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-datasets)
-[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/rongyaofang/GoT#released-model-got-framework)
-
-
-- [Visual planning: Let's think only with images](https://arxiv.org/abs/2505.11409) (Mar., 2025) <br>
-[![GitHub stars](https://img.shields.io/github/stars/yix8/VisualPlanning)](https://github.com/yix8/VisualPlanning)
-
-
 ## 🧠 Reinforcement Learning
 
 Reinforcement learning has been proven to be a crucial step in enhancing reasoning capabilities. Here, we summarize methods that utilize reinforcement learning, such as GRPO, into image generation process.
@@ -82,11 +53,6 @@ Reinforcement learning has been proven to be a crucial step in enhancing reasoni
 [![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/ZiyuG/Image-Generation-CoT)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/ZiyuG/Image-Generation-CoT)
-
-
-- [ImageGen-CoT: Enhancing text-to-image in-context learning with chain-of-thought reasoning](https://arxiv.org/abs/2503.19312) (Jan., 2025) <br>
-[![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://imagegen-cot.github.io)
 
 
 - [SimpleAR: Pushing the frontier of autoregressive visual generation through pretraining, SFT, and RL](https://arxiv.org/abs/2504.11455) (Apr., 2025) <br>
@@ -124,6 +90,41 @@ Reinforcement learning has been proven to be a crucial step in enhancing reasoni
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://reasongen-r1.github.io)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)
+
+---
+
+## 🗒️ Explicit Reflection
+
+Reflection is an essantial step in thinking processes. Explicit reflection, which leverages modalities such as text, object coordinates, and image with editing instructions, is a typical approach.
+
+- [Visual programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) (CVPR, 2023) <br>
+[![GitHub stars](https://img.shields.io/github/stars/allenai/visprog)](https://github.com/allenai/visprog)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://prior.allenai.org/projects/visprog)
+
+
+- [ViperGPT: Visual inference via python execution for reasoning](https://arxiv.org/abs/2303.08128) (ICCV, 2023) <br>
+[![GitHub stars](https://img.shields.io/github/stars/cvlab-columbia/viper)](https://github.com/cvlab-columbia/viper)
+
+
+- [From reflection to perfection: Scaling inference-time optimization for text-to-image diffusion models via reflection tuning](https://arxiv.org/abs/2504.16080) (Apr., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow)](https://github.com/Diffusion-CoT/ReflectionFlow)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://diffusion-cot.github.io/reflection2perfection/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/diffusion-cot/reflectionflow-release-6803e14352b1b13a16aeda44)
+
+
+- [ImageGen-CoT: Enhancing text-to-image in-context learning with chain-of-thought reasoning](https://arxiv.org/abs/2503.19312) (Jan., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT)](https://github.com/ZiyuGuo99/Image-Generation-CoT)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://imagegen-cot.github.io)
+
+
+- [GoT: Unleashing reasoning capability of multimodal large language model for visual generation and editing](https://arxiv.org/abs/2503.10639) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/rongyaofang/GoT)](https://github.com/rongyaofang/GoT)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/rongyaofang/GoT#released-datasets)
+[![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://github.com/rongyaofang/GoT#released-model-got-framework)
+
+
+- [Visual planning: Let's think only with images](https://arxiv.org/abs/2505.11409) (Mar., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/yix8/VisualPlanning)](https://github.com/yix8/VisualPlanning)
 
 ---
 
