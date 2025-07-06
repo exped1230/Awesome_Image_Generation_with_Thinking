@@ -93,7 +93,7 @@ Reinforcement learning has been proven to be a crucial step in enhancing reasoni
 
 ---
 
-## 🗒️ Explicit Reflection
+## 🗒️ Explicit Thinking
 
 Reflection is an essantial step in thinking processes. Explicit reflection, which leverages modalities such as text, object coordinates, and image with editing instructions, is a typical approach.
 
