@@ -231,7 +231,6 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 
 - [MINT: Multi-modal chain of thought in unified generative models for enhanced image generation](https://arxiv.org/abs/2503.01298) (Mar., 2025) <br>
 
-
 - [Transfer between modalities with metaqueries](https://arxiv.org/abs/2504.06256) (Apr., 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/metaquery)](https://github.com/facebookresearch/metaquery)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://xichenpan.com/metaquery/)
@@ -307,18 +306,23 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/CommonsenseT2I/CommonsensenT2I)
 
 
-- [WISE: A world knowledge-informed semantic evaluation for text-to-image generation](https://arxiv.org/abs/2503.07265) (May, 2025) <br>
+- [WISE: A world knowledge-informed semantic evaluation for text-to-image generation](https://arxiv.org/abs/2503.07265) (Mar., 2025) <br>
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/PKU-YuanGroup/WISE#wise-eval)
 
+- [R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation](https://arxiv.org/abs/2505.23493) (May, 2025) <br>
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/PLUM-Lab/R2I-Bench)
 
 - [TIIF-Bench: How does your T2I model follow your instructions?](https://arxiv.org/abs/2506.02161) (Jun., 2025) <br>
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://a113n-w3i.github.io/TIIF_Bench/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/A113NW3I/TIIF-Bench-Data)
 
-
 - [OneIG-Bench: Omni-dimensional nuanced evaluation for image generation](https://arxiv.org/abs/2506.07977) (Jun., 2025) <br>
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://oneig-bench.github.io)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OneIG-Bench/OneIG-Bench)
+
+- [OneIG-Bench: Omni-dimensional nuanced evaluation for image generation](https://arxiv.org/abs/2506.10963) (Jun., 2025) <br>
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://mmmgbench.github.io/)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/MMMGBench/MMMG)
 
 ## Star History
 
