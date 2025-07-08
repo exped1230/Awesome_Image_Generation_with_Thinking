@@ -237,6 +237,8 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://xichenpan.com/metaquery/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/xcpan/metaquery-instruction-tuning-data-685b0f16d81ce54bcb7ea3a8)
 
+- [UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding](https://arxiv.org/abs/2504.04423v1) (Apr., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/SxJyJay/UniToken)](https://github.com/SxJyJay/UniToken)
 
 - [BLIP3-o: A family of fully open unified multimodal models-architecture, training and dataset](https://arxiv.org/abs/2505.09568) (May, 2025) <br>
 [![GitHub stars](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o)](https://github.com/JiuhaiChen/BLIP3o)
@@ -277,6 +279,8 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 [![GitHub stars](https://img.shields.io/github/stars/AIDC-AI/Ovis-U1)](https://github.com/AIDC-AI/Ovis-U1)
 [![Model](https://img.shields.io/badge/Model1-Available-orange?style=flat-square)](https://huggingface.co/AIDC-AI/Ovis-U1-3B)
 
+- [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2506.17202) (Jun., 2025) <br>
+[![GitHub stars](https://img.shields.io/github/stars/tliby/UniFork)](https://github.com/tliby/UniFork)
 
 ---
 
