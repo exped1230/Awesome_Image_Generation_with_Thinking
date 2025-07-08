@@ -320,7 +320,7 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://oneig-bench.github.io)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/OneIG-Bench/OneIG-Bench)
 
-- [OneIG-Bench: Omni-dimensional nuanced evaluation for image generation](https://arxiv.org/abs/2506.10963) (Jun., 2025) <br>
+- [MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning](https://arxiv.org/abs/2506.10963) (Jun., 2025) <br>
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://mmmgbench.github.io/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/MMMGBench/MMMG)
 
