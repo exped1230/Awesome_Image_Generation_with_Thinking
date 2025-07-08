@@ -4,7 +4,7 @@
   <img src="logo.png" alt="Logo" width="600">
   <h1 align="center">Image Generation with Thinking.</h1>
   
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/exped1230/Awesome_Image_Generation_with_Thinking) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <!-- ![](https://img.shields.io/github/last-commit/exped1230/Awesome_Image_Generation_with_Thinking?color=green)  -->
 
