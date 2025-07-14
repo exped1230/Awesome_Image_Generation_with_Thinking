@@ -91,6 +91,10 @@ Reinforcement learning has been proven to be a crucial step in enhancing reasoni
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)
 [![Model](https://img.shields.io/badge/Model-Available-orange?style=flat-square)](https://huggingface.co/collections/Franklin0/reasongen-r1-6836ed61fc4f6db543c0d368)
 
+
+- [Reinforcing Multimodal Understanding and Generation with Dual Self-rewards](https://arxiv.org/abs/2506.07963) (Jun., 2025) <br>
+
+
 ---
 
 ## 🗒️ Explicit Thinking
