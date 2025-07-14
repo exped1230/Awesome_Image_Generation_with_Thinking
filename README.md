@@ -316,6 +316,9 @@ Unified LMMs inherently excel at text-to-image controllability, hence we collect
 - [R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation](https://arxiv.org/abs/2505.23493) (May, 2025) <br>
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/PLUM-Lab/R2I-Bench)
 
+- [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826) (May, 2025) <br>
+[![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://github.com/PhoenixZ810/RISEBench)
+
 - [TIIF-Bench: How does your T2I model follow your instructions?](https://arxiv.org/abs/2506.02161) (Jun., 2025) <br>
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://a113n-w3i.github.io/TIIF_Bench/)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-brightgreen?style=flat-square)](https://huggingface.co/datasets/A113NW3I/TIIF-Bench-Data)
